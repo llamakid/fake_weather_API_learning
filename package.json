@@ -1,0 +1,14 @@
+{
+    "name": "fake_weather_api_starter",
+    "version": "1.0.0",
+    "main": "injex.js",
+    "scripts": {
+        "test": "echo \"ERROR: no test specified\" && exit 1"
+    },
+    "author": "Nate Guy",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.16.4"
+    }
+}
